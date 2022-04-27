@@ -1,0 +1,75 @@
+  margin: auto;
+}
+nav{
+  
+   margin-top: 30px;
+ 
+}
+.logo img{
+    width: 100px;
+    margin-top: 40px;
+}
+.see h5{
+    color: yellow;
+    
+}
+.see h2{
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+.card-body{
+    text-align: center;
+}
+
+.card-body h4{
+    margin-top: 25px;
+}
+.card-body h2 {
+
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.btn{
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 7px;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+.img img{
+    width: 100%;
+}
+.bd{
+    border-bottom: 10px solid orangered;
+    margin: auto;
+
+}
+.bag{
+    background-color: lavenderblush;
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+.shoe{
+    margin-left: 240px;
+    margin-bottom: -67px;
+
+
+}
+.shoe3{
+    margin-left: 240px;
+    margin-top: -110px;
+
+}
+@media (max-width:500px){
+    .Smartphone{
+        
+        margin-left: auto;
+
+
+    }
+}
